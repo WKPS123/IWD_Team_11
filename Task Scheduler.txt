@@ -1,0 +1,9 @@
+1. First, Go Window Search Type "Task Scheduler"
+2. Go Action -> Create Task.
+3. Write the Name (Eg.Daily Notification)
+4. Go To Trigger -> New...
+5. Set the daily time.
+6. Go To Action -> New...
+7. In Setting(Program/Script) -> Paste the directory (C:\xampp\php\php.exe) 
+8. Add the argument -> Paste your folder directory (Eg. C:\xampp\htdocs\starright\send_daily.php)
+9. Done.
